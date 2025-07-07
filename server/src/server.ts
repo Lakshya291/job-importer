@@ -1,7 +1,7 @@
 import app from "./app";
 import { connectMongo } from "./config";
-import { startWorker } from "./queue/"; // next step
-import { startCron } from "./cron"; // next step
+import { startWorker } from "./queue/";
+import { startCron } from "./cron"; 
 
 const PORT = Number(process.env.PORT) || 5000;
 
