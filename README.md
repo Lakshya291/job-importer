@@ -28,6 +28,19 @@ A demo‑ready MERN‑stack project that polls multiple job‑board RSS feeds, q
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔍 Job Listing Page
+![Jobs Page](./assets/homepage.png)
+
+### 📄 Job Details
+![Job Detail](./assets/job-detail.png)
+
+### 📋 Import Logs
+![Import Logs](./assets/import-logs.png)
+
+---
+
 ## 🚀 Quick Start
 
 ```bash
