@@ -11,7 +11,7 @@ A demo‑ready MERN‑stack project that polls multiple job‑board RSS feeds, q
 | **Hourly feed polling** | 9 Jobicy feeds + HigherEdJobs (configurable)       |
 | **Queue & worker**      | BullMQ v5, concurrency & rate‑limit via env vars   |
 | **MongoDB models**      | `rawFeedItems`, `jobs`, `importLogs`               |
-| **Admin UI**            | Jobs list w/ search & *Load More*, job detail view |
+| **Admin UI**            | Jobs list w/ search & _Load More_, job detail view |
 | **Import logs**         | History table + **Run Import** button              |
 
 ---
@@ -31,13 +31,20 @@ A demo‑ready MERN‑stack project that polls multiple job‑board RSS feeds, q
 ## 🖼️ Screenshots
 
 ### 🔍 Job Listing Page
+
 ![Jobs Page](./assets/homepage.png)
 
 ### 📄 Job Details
+
 ![Job Detail](./assets/job-detail.png)
 
 ### 📋 Import Logs
+
 ![Import Logs](./assets/import-logs.png)
+
+### 🔎 Search in Action
+
+![Search Jobs](./assets/search-job.png)
 
 ---
 
