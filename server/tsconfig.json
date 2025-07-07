@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2020",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"outDir": "./dist",
+		"baseUrl": "./src",
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true
+	},
+	"include": ["src"],
+	"exclude": ["node_modules"]
+}
+// This file is used to configure TypeScript for the server-side code.
+// It specifies the compiler options and the files to include and exclude from the compilation.
